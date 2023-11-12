@@ -1,6 +1,6 @@
 # uocInfografiaPracticaP1 
 
-ilc_mdsd11_page_spreadsheet_percentage.xlsx Fichero datos originales
+ilc_mdsd11_page_spreadsheet.xlsx Fichero datos originales
 
 Repositorio para preparación de datos para la practica de infografía del grado de diseño de la UOC
 
