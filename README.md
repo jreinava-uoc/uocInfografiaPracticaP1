@@ -2,6 +2,8 @@
 
 Repositorio para preparación de datos para la practica de infografía del grado de diseño de la UOC
 
+ReinaValle_JuanRafael_PracticaParte1.pdf Entrega realizada.
+
 ilc_mdsd11_page_spreadsheet.xlsx Fichero datos originales
 
 ilc_mdsd11_page_cleaned.csv son los datos originales con cambios minimos para poder tratarlos
