@@ -10,6 +10,6 @@ ilc_mdsd11_page_cleaned.csv son los datos originales con cambios minimos para po
 
 InfografiaDatosPracticaP1.ipynb es el collab que he usado para la conversion de datos.
 
-ilc_mdsd11_modificado.csv es el fichero resultado.
+ilc_mdsd11_modificado.csv es el fichero resultado. 
 
 
